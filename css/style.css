@@ -5,3 +5,11 @@ img{
 header ::placeholder{
     color: #222;
 }
+
+/**{
+    border: 1px solid black;
+}*/
+
+td i{
+    color: darkgray;
+}
