@@ -1,5 +1,5 @@
 img{
-    height: 80px;
+    height: 50px;
 }
 
 header ::placeholder{
@@ -12,4 +12,17 @@ header ::placeholder{
 
 td i{
     color: darkgray;
+}
+
+td a:hover{
+    filter: brightness(50%);
+}
+
+tr:hover{
+    filter: brightness(95%);
+}
+
+.text-bg-loan{
+    color: white;
+    background-color: #ffc107;
 }
