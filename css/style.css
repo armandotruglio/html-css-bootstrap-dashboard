@@ -1,0 +1,7 @@
+img{
+    height: 80px;
+}
+
+header ::placeholder{
+    color: #222;
+}
